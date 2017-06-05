@@ -227,6 +227,7 @@ For documentation on the latest development code see the [documentation index][d
 * [opensmtpd](./plugins/inputs/opensmtpd)
 * [pf](./plugins/inputs/pf)
 * [pgbouncer](./plugins/inputs/pgbouncer)
+* [open_hardware_monitor](./plugins/inputs/open_hardware_monitor)
 * [phpfpm](./plugins/inputs/phpfpm)
 * [phusion passenger](./plugins/inputs/passenger)
 * [ping](./plugins/inputs/ping)
