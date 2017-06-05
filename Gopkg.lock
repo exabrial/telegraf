@@ -219,6 +219,17 @@
   version = "v2.0.0"
 
 [[projects]]
+  digest = "1:5ee9b7a0a2729cb08cc54036c033f386f14a1bd33abb1c432473743039b3070b"
+  name = "github.com/clbanning/mxj"
+  packages = [
+    ".",
+    "x2j",
+  ]
+  pruneopts = ""
+  revision = "82051832829e23b1986f479cf92a7e3ba6cca7b6"
+  version = "v1.8.1"
+
+[[projects]]
   branch = "master"
   digest = "1:298e42868718da06fc0899ae8fdb99c48a14477045234c9274d81caa79af6a8f"
   name = "github.com/couchbase/go-couchbase"
@@ -687,6 +698,13 @@
   packages = ["."]
   pruneopts = ""
   revision = "95032a82bc518f77982ea72343cc1ade730072f0"
+
+[[projects]]
+  branch = "master"
+
+  name = "github.com/knq/hilink"
+  packages = ["."]
+  revision = "86fb4686a3b0ae9fb0c5aee179b9ce094a873f43"
 
 [[projects]]
   branch = "master"
